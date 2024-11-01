@@ -1,0 +1,24 @@
+{
+  "name": "modal-ocr-yanis",
+  "version": "1.2.1",
+  "description": "Un composant Modal React simple et réutilisable",
+  "main": "index.js",
+  "module": "Modal.jsx",
+  "files": [
+    "index.js",
+    "Modal.jsx",
+    "Modal.css"
+  ],
+  "keywords": [
+    "react",
+    "modal",
+    "component"
+  ],
+  "author": "nkto",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^17.0.0 || ^18.0.0",
+    "react-dom": "^17.0.0 || ^18.0.0",
+    "prop-types": "^15.7.0"
+  }
+}
