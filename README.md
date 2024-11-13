@@ -39,8 +39,11 @@ Ce projet contient un composant React de modal personnalisé.
 Pour installer ce package, vous pouvez également le récupérer via npm :
 
 ```bash
-npm install modal-ocr-yani
+npm install modal-ocr-yanis
 ```
+
+Plus d'informations sont disponibles sur la page du package
+[ici](https://www.npmjs.com/package/modal-ocr-yanis).
 
 ## Utilisation
 
